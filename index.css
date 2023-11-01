@@ -160,6 +160,10 @@
   cursor: pointer;
 }
 
+.about-description > :nth-child(4) {
+  display: none;
+}
+
 .about-description > :nth-child(3):hover {
   background-color: transparent;
   border: 1px solid #44ffa1;
